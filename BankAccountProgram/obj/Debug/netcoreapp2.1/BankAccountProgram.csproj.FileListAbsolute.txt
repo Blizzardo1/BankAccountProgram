@@ -1,0 +1,11 @@
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.csprojAssemblyReference.cache
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.csproj.CoreCompileInputs.cache
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.AssemblyInfoInputs.cache
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.AssemblyInfo.cs
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\bin\Debug\netcoreapp2.1\BankAccountProgram.deps.json
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\bin\Debug\netcoreapp2.1\BankAccountProgram.runtimeconfig.json
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\bin\Debug\netcoreapp2.1\BankAccountProgram.runtimeconfig.dev.json
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\bin\Debug\netcoreapp2.1\BankAccountProgram.dll
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\bin\Debug\netcoreapp2.1\BankAccountProgram.pdb
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.dll
+F:\Code\Rider\BankAccountProgram\BankAccountProgram\obj\Debug\netcoreapp2.1\BankAccountProgram.pdb
